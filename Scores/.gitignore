@@ -1,3 +1,7 @@
-*.pdf 
-*.mid
+## GitHub's Lilypond recommended ignore patterns.
+*.pdf
+*.ps
 *.midi
+*.mid
+*.log
+*~
